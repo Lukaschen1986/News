@@ -6,3 +6,4 @@
 ##### 18 分钟训练 ImageNet 复现代码 https://www.jiqizhixin.com/articles/090902  
 ##### 摩拜 & 京东联合利用智能单车数据挖掘违章停车 https://www.jiqizhixin.com/articles/090905  
 ##### 成为机器学习大神，你不能不懂数学 https://www.jiqizhixin.com/articles/2018-09-07-2  
+##### Keras之小众需求：自定义优化器 https://www.jiqizhixin.com/articles/2018-09-11-5  https://blog.csdn.net/tsyccnh/article/details/76673073  
