@@ -6,7 +6,8 @@
 ##### 18 分钟训练 ImageNet 复现代码 https://www.jiqizhixin.com/articles/090902  
 ##### 摩拜 & 京东联合利用智能单车数据挖掘违章停车 https://www.jiqizhixin.com/articles/090905  
 ##### 成为机器学习大神，你不能不懂数学 https://www.jiqizhixin.com/articles/2018-09-07-2  
-##### Keras之小众需求：自定义优化器 https://www.jiqizhixin.com/articles/2018-09-11-5  https://blog.csdn.net/tsyccnh/article/details/76673073      
+##### Keras之小众需求：自定义优化器 https://www.jiqizhixin.com/articles/2018-09-11-5  https://blog.csdn.net/tsyccnh/article/details/76673073  
+#####
 ##### 09-20  
 ##### 深度学习 + OpenCV，Python实现实时视频目标检测 https://www.jiqizhixin.com/articles/2017-09-21-3  
 ##### 从R-CNN到RFBNet https://mp.weixin.qq.com/s/zeruKQOye_QNWgluVIN0BA  
@@ -17,3 +18,4 @@
 ##### 贝叶斯、香农和奥卡姆开会讨论「机器学习是什么」 https://www.jiqizhixin.com/articles/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning  
 ##### Petuum&CMU开源Texar：一个模块化、多功能、可扩展的文本生成工具包 https://www.jiqizhixin.com/articles/092302  
 ##### 2018年最流行的深度学习框架？这份科学的排行榜可以告诉你 https://www.jiqizhixin.com/articles/deep-learning-framework-scores-2018  
+
