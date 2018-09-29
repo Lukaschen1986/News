@@ -23,3 +23,6 @@
 ##### “Keras之父”亲传，一个软件工程师的成长自查清单 https://www.jiqizhixin.com/articles/2018-09-25-6  
 ##### 为什么自建深度学习机器？因为比AWS便宜10倍啊！ https://www.jiqizhixin.com/articles/2018-09-26-7  
 ##### 入门Python神经机器翻译，这是一篇非常精简的实战指南 https://www.jiqizhixin.com/articles/092602  
+
+##### 09-29  
+##### 一文详解达观数据知识图谱技术与应用 https://www.jiqizhixin.com/articles/2018-09-28-11  
