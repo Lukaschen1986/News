@@ -26,3 +26,14 @@
 
 ##### 09-29  
 ##### 一文详解达观数据知识图谱技术与应用 https://www.jiqizhixin.com/articles/2018-09-28-11  
+
+##### 11-28
+##### 美团餐饮娱乐知识图谱 https://www.jiqizhixin.com/articles/2018-11-23-16  
+##### 强化学习中的策略网络vs数值网络 https://www.jiqizhixin.com/articles/2018-11-28-11  
+##### 算法，人工智能的新曙光 https://www.jiqizhixin.com/articles/2018-11-28-5  
+##### 人力资源知识图谱搭建及应用 https://www.jiqizhixin.com/articles/2018-11-23-3  
+##### 为什么说 Bert 大力出奇迹？ https://www.jiqizhixin.com/articles/2018-11-21-14  
+##### 如何做好文本关键词提取？从三种算法说起 https://www.jiqizhixin.com/articles/2018-11-14-17  
+##### 手把手教你如何用Python从PDF文件中导出数据 https://www.jiqizhixin.com/articles/2018-11-28-9  
+##### 人脸识别的简要介绍 https://www.jiqizhixin.com/articles/2018-11-05-20  
+##### 如何看待轰炸阅读理解顶级测试的BERT模型？ https://www.jiqizhixin.com/articles/2018-10-18-20?from=synced&keyword=bert  
