@@ -37,3 +37,8 @@
 ##### 手把手教你如何用Python从PDF文件中导出数据 https://www.jiqizhixin.com/articles/2018-11-28-9  
 ##### 人脸识别的简要介绍 https://www.jiqizhixin.com/articles/2018-11-05-20  
 ##### 如何看待轰炸阅读理解顶级测试的BERT模型？ https://www.jiqizhixin.com/articles/2018-10-18-20?from=synced&keyword=bert  
+
+##### 12-19  
+##### 深度长文：NLP的巨人肩膀（上） https://www.jiqizhixin.com/articles/2018-12-10-17  
+##### NLP 的巨人肩膀（下）：从 CoVe 到 BERT https://www.jiqizhixin.com/articles/2018-12-17-17  
+##### 用一条数学公式破解人类记忆 https://www.jiqizhixin.com/articles/2018-12-18-24  
